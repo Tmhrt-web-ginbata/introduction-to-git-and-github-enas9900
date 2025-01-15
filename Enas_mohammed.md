@@ -1,6 +1,6 @@
 
 I began by searching github on Google and entered the githup sign up page after that I filled the required details(username,email,password)then I verified my email to activate my account![gitup signing](https://github.com/signup?source=form-home-signup&user_email=enasmohammed%40gmali.com)
 I accessed the git hub login page and signed into my github account by entering my username/email and password in the given space![gitup singing 2](https://accounts.google.com/v3/signin/challenge/pwd?TL=AO-GBTf3n4SeZIlmO5fXcMJtmzCppZ5-b1n75gcsIP9_zSwDLoGH7sMEJWc21w3A&checkConnection&checkedDomains&cid=1&continue=https%3A%2F%2Fclassroom.google.com%2Fc%2FNzMwMjUzNTU4OTA1%2Fm%2FNzQ0MzIzMzUzNTIx%2Fdetails&ddm=1&dsh=S1259466758%3A1736867406863196&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AVdkyDnHNP3vfMtMTjUdm64gS1n2XOHLgYYvEokcl6-6ua_SNJ9b1AwDT307GeLJXcPYoFCY_wYn4g&pstMsg=0&authuser=1)
-I created markdown by going to "Add file">create new file then named it and I clicked the'commit new files' to save my changes![gitup singing(https://github.com/Tmhrt-web-ginbata/introduction-to-git-and-github-enas9900/new/main)
+I created markdown by going to "Add file">create new file then named it and I clicked the'commit new files' to save my changes![gitup singing 3(https://github.com/Tmhrt-web-ginbata/introduction-to-git-and-github-enas9900/new/main)
 I created a new public repository and ![image](https://github.com/user-attachments/assets/86749920-8bef-4059-9724-db5b9d644453)
  its features for a better understanding
